@@ -1,11 +1,11 @@
 <div align="center">
 	<br />
 	<p>
-		<a href="https://discord.js.org"><img src="https://github.com/icordjs/.github/blob/main/profile/data/logo.png" width="546" alt="discord.js" /></a>
+		<a href="https://discord.js.org"><img src="https://github.com/icordjs/.github/blob/main/profile/data/logo.png" width="546" alt="icord" /></a>
 	</p>
 	<br />
 	<p>
-		<a href="https://www.npmjs.com/package/discord.js"><img src="https://img.shields.io/npm/dt/discord.js.svg?maxAge=3600" alt="npm downloads" /></a>
+		<a href="https://www.npmjs.com/package/icord"><img src="https://img.shields.io/npm/dt/icord.svg?maxAge=3600" alt="npm downloads" /></a>
 	</p>
 </div>
 
